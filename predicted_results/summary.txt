@@ -1,0 +1,694 @@
+=== Ringkasan Analisis Kelapa Sawit ===
+
+Gambar: 44000_16000_3001_1747_jpg.rf.95813f0ee25b6e75a4138c94bfedb3e6.jpg
+Area Kelapa Sawit: 22.1%
+
+Gambar: 52000_20000_769_1551_jpg.rf.9e0d687b970b91a9aa54d25bdde3a93f.jpg
+Area Kelapa Sawit: 24.0%
+
+Gambar: 52000_20000_3233_1477_jpg.rf.19e59d4ef94266f0646b9eaa323a315b.jpg
+Area Kelapa Sawit: 59.3%
+
+Gambar: 52000_20000_2222_3458_jpg.rf.4c364c3a40ebca29495e2c2113dc4940.jpg
+Area Kelapa Sawit: 38.2%
+
+Gambar: 52000_20000_594_528_jpg.rf.7bc7c840c68a012895a1e2cc3de5c666.jpg
+Area Kelapa Sawit: 64.0%
+
+Gambar: 44000_4000_1108_197_jpg.rf.79c0ce222b58438e5893e7379317071e.jpg
+Area Kelapa Sawit: 45.5%
+
+Gambar: 44000_16000_349_1078_jpg.rf.6a20bfa34b285ba30ac1a3063c7c7258.jpg
+Area Kelapa Sawit: 57.5%
+
+Gambar: 44000_4000_2180_278_jpg.rf.7c26192b1a82d5013a03dc17b40281cb.jpg
+Area Kelapa Sawit: 46.5%
+
+Gambar: 52000_20000_3057_1642_jpg.rf.634118e529231d57f74fd6bff09d8996.jpg
+Area Kelapa Sawit: 45.5%
+
+Gambar: 44000_4000_3286_200_jpg.rf.d1c9813ac68e29ccac93ae119b9c8b06.jpg
+Area Kelapa Sawit: 43.6%
+
+Gambar: 52000_20000_3668_1509_jpg.rf.bc1cda6ccb1c73bb99d6061337a30ace.jpg
+Area Kelapa Sawit: 68.1%
+
+Gambar: 52000_20000_1878_863_jpg.rf.e2cbf7c970a880a99c2b807394c2c69f.jpg
+Area Kelapa Sawit: 36.2%
+
+Gambar: 44000_4000_2672_1380_jpg.rf.014f6d8327f404782384685477338004.jpg
+Area Kelapa Sawit: 39.8%
+
+Gambar: 44000_16000_349_1172_jpg.rf.02f50b5da282cb1d73901e1622cda722.jpg
+Area Kelapa Sawit: 58.6%
+
+Gambar: 44000_4000_2560_3246_jpg.rf.b142f98bad0f49d40f0125abbdac4401.jpg
+Area Kelapa Sawit: 44.8%
+
+Gambar: 44000_4000_392_3443_jpg.rf.e939eb8c609da7a0145b0e0c050fd348.jpg
+Area Kelapa Sawit: 25.9%
+
+Gambar: 52000_20000_2773_1031_jpg.rf.60e829620ea02a72c64cef24fd2b062b.jpg
+Area Kelapa Sawit: 37.6%
+
+Gambar: 44000_16000_2165_3255_jpg.rf.4cae67bcfe5c8496a025fc38000a40ff.jpg
+Area Kelapa Sawit: 44.1%
+
+Gambar: 44000_16000_2112_1601_jpg.rf.4145e7f959e90320628548b5d99671ac.jpg
+Area Kelapa Sawit: 51.1%
+
+Gambar: 44000_16000_1556_537_jpg.rf.75d5602d60510402aee1de364d61f883.jpg
+Area Kelapa Sawit: 40.0%
+
+Gambar: 44000_4000_2694_3829_jpg.rf.033381d7b1c385360ee69ff0f78fd511.jpg
+Area Kelapa Sawit: 53.8%
+
+Gambar: 44000_4000_83_803_jpg.rf.85049bb3fc1dcf77ec92365da0ed4237.jpg
+Area Kelapa Sawit: 47.8%
+
+Gambar: 52000_20000_663_3898_jpg.rf.cf2993d85e6e3085906fbf4453ad79e0.jpg
+Area Kelapa Sawit: 39.2%
+
+Gambar: 44000_16000_3667_3895_jpg.rf.38ae49fb6818c530ff89ab7453a3eafb.jpg
+Area Kelapa Sawit: 43.9%
+
+Gambar: 44000_4000_2570_2038_jpg.rf.eaa31e2d2ea5f7330912bbb11de853a7.jpg
+Area Kelapa Sawit: 36.6%
+
+Gambar: 44000_16000_259_3839_jpg.rf.302aa4c5075af730bdc0c5728efd9448.jpg
+Area Kelapa Sawit: 52.3%
+
+Gambar: 52000_20000_688_929_jpg.rf.536be14ee0492b9ab29979f7cfdf466d.jpg
+Area Kelapa Sawit: 50.8%
+
+Gambar: 44000_16000_105_3843_jpg.rf.462906eddf2323df6632ad677c8ec7bd.jpg
+Area Kelapa Sawit: 51.1%
+
+Gambar: 52000_20000_1114_1425_jpg.rf.971567ee204ecc8c51b8379d78d9dbe5.jpg
+Area Kelapa Sawit: 33.3%
+
+Gambar: 44000_4000_646_2704_jpg.rf.4e74c3e2bcee4cc3ae5f3b5aae41f79e.jpg
+Area Kelapa Sawit: 47.9%
+
+Gambar: 44000_4000_1324_946_jpg.rf.cb516178ecb58445a402da0dd59de67f.jpg
+Area Kelapa Sawit: 46.5%
+
+Gambar: 44000_4000_3630_1225_jpg.rf.83997fe04d02fbe45a13a28033f509ba.jpg
+Area Kelapa Sawit: 54.0%
+
+Gambar: 44000_16000_60_683_jpg.rf.cc57d71386ec507ca7dfdfc910fdbbbb.jpg
+Area Kelapa Sawit: 55.7%
+
+Gambar: 52000_20000_2382_2058_jpg.rf.7d29afb26df668cfa0dc07661e1d20f2.jpg
+Area Kelapa Sawit: 10.5%
+
+Gambar: 52000_20000_3520_687_jpg.rf.d9de50caef79da18d35e4232260423f2.jpg
+Area Kelapa Sawit: 61.0%
+
+Gambar: 44000_16000_1990_1413_jpg.rf.da0c692e2c038fa3f378be319d88aeec.jpg
+Area Kelapa Sawit: 61.6%
+
+Gambar: 44000_4000_2130_1484_jpg.rf.98ac9dc7c363c1f51743a6a50cf35cde.jpg
+Area Kelapa Sawit: 36.1%
+
+Gambar: 52000_20000_2697_105_jpg.rf.e400be4e5b4e164ddb35258f0f6f206a.jpg
+Area Kelapa Sawit: 69.9%
+
+Gambar: 44000_16000_2499_708_jpg.rf.01e01f086346b229f246062f24bcb417.jpg
+Area Kelapa Sawit: 15.7%
+
+Gambar: 44000_4000_1224_2756_jpg.rf.5077c3e084c6bcab6dbfb7d2267092c2.jpg
+Area Kelapa Sawit: 41.1%
+
+Gambar: 52000_20000_2674_2102_jpg.rf.9c696380c12b0a6e9d716645d2441e33.jpg
+Area Kelapa Sawit: 12.9%
+
+Gambar: 44000_4000_274_1822_jpg.rf.fb0f65329ec50045b86a2db2e4e7e556.jpg
+Area Kelapa Sawit: 45.3%
+
+Gambar: 52000_20000_1657_3348_jpg.rf.26bfa8a386bce68d02566cbcfc8eac0e.jpg
+Area Kelapa Sawit: 33.5%
+
+Gambar: 52000_20000_3117_2540_jpg.rf.8e3d01008b293e8956c2812979833ad0.jpg
+Area Kelapa Sawit: 35.3%
+
+Gambar: 44000_16000_2225_1397_jpg.rf.ad97db101daa4d4ee5e9eef5a032b742.jpg
+Area Kelapa Sawit: 46.7%
+
+Gambar: 52000_20000_1528_1667_jpg.rf.2965a38bf6e4c35a13a0309e571ea5ce.jpg
+Area Kelapa Sawit: 17.9%
+
+Gambar: 52000_20000_2581_2480_jpg.rf.455c625277a0c556700e20415624d9ca.jpg
+Area Kelapa Sawit: 14.1%
+
+Gambar: 44000_16000_1347_3635_jpg.rf.82f3ada9687f543123aa350f334df27e.jpg
+Area Kelapa Sawit: 47.3%
+
+Gambar: 44000_4000_2729_897_jpg.rf.7cf4743dee388436d1a1b6de51a82554.jpg
+Area Kelapa Sawit: 39.1%
+
+Gambar: 44000_4000_48_2214_jpg.rf.36c0566161e49719423b52e72459c8bb.jpg
+Area Kelapa Sawit: 41.5%
+
+Gambar: 52000_20000_1405_820_jpg.rf.4eda7019ae5830ed47d28ea24ae46fe3.jpg
+Area Kelapa Sawit: 60.0%
+
+Gambar: 52000_20000_2786_3272_jpg.rf.7c825c2aeee498658e421bea3a6b78c7.jpg
+Area Kelapa Sawit: 31.4%
+
+Gambar: 44000_4000_1176_1891_jpg.rf.cad38ec8914aed29e5de9600ec06c909.jpg
+Area Kelapa Sawit: 47.7%
+
+Gambar: 44000_4000_1699_643_jpg.rf.7ab036c9d2176b672fea37f1310842b3.jpg
+Area Kelapa Sawit: 47.5%
+
+Gambar: 44000_4000_3379_1207_jpg.rf.71a0a0d78b1b4429a4dcfcadf3b45f98.jpg
+Area Kelapa Sawit: 54.1%
+
+Gambar: 44000_4000_2611_1354_jpg.rf.cfc40b9834d02172b69acae726591f44.jpg
+Area Kelapa Sawit: 44.2%
+
+Gambar: 44000_16000_2457_3395_jpg.rf.d5da1e08f4339b596430700337fc483e.jpg
+Area Kelapa Sawit: 40.2%
+
+Gambar: 44000_16000_2152_1860_jpg.rf.577f9579a521498aa546303df20a52aa.jpg
+Area Kelapa Sawit: 50.8%
+
+Gambar: 52000_20000_2423_143_jpg.rf.efe0ccf8f90c17d65be2f8b50750d9e1.jpg
+Area Kelapa Sawit: 60.6%
+
+Gambar: 44000_4000_2995_2079_jpg.rf.a5e6eb50fdd74e96c86f488733ed9209.jpg
+Area Kelapa Sawit: 48.0%
+
+Gambar: 44000_16000_3224_1362_jpg.rf.66ddb21635459b38bc79efc24eb0d0f1.jpg
+Area Kelapa Sawit: 11.7%
+
+Gambar: 44000_16000_3218_1217_jpg.rf.c0e7f1c7b7604d7a390580e46af8c78d.jpg
+Area Kelapa Sawit: 10.4%
+
+Gambar: 44000_4000_3696_2833_jpg.rf.3916e5f18c2754569f47f701f6235f0d.jpg
+Area Kelapa Sawit: 50.2%
+
+Gambar: 44000_16000_1060_351_jpg.rf.66759af0c04f22dd19d381ddb88e3dcc.jpg
+Area Kelapa Sawit: 55.6%
+
+Gambar: 44000_4000_2429_2373_jpg.rf.b6d926357a99e1749bd57620c125c287.jpg
+Area Kelapa Sawit: 40.7%
+
+Gambar: 52000_20000_3906_1960_jpg.rf.ed84903e5397f7433612cc0ee8973a61.jpg
+Area Kelapa Sawit: 64.2%
+
+Gambar: 44000_4000_665_1278_jpg.rf.d3dc9f9a8eaae72c033c9d80034a572b.jpg
+Area Kelapa Sawit: 47.2%
+
+Gambar: 44000_4000_16_2592_jpg.rf.d5ab5b5936090d89f4f030d2c0ba1fbb.jpg
+Area Kelapa Sawit: 48.8%
+
+Gambar: 44000_4000_2449_2835_jpg.rf.a56ac383cbffe9a0371d9a1560eff098.jpg
+Area Kelapa Sawit: 43.3%
+
+Gambar: 44000_4000_2601_3179_jpg.rf.da28bb68196e5e5ea49602a105bc794b.jpg
+Area Kelapa Sawit: 49.0%
+
+Gambar: 44000_16000_2579_702_jpg.rf.722e1b1f1d81f0578fd0a6e82d4505ee.jpg
+Area Kelapa Sawit: 15.8%
+
+Gambar: 52000_20000_3289_3647_jpg.rf.4bc91f03ec9a5ff9dd03690bdec72156.jpg
+Area Kelapa Sawit: 46.4%
+
+Gambar: 44000_4000_1712_3016_jpg.rf.08d7ba04374c8eaae5d80bd5c866a91e.jpg
+Area Kelapa Sawit: 34.4%
+
+Gambar: 44000_16000_1612_1949_jpg.rf.d55c56ecada8a56dd069b2bf3a03aa8b.jpg
+Area Kelapa Sawit: 47.1%
+
+Gambar: 44000_4000_988_2749_jpg.rf.4cbd73b35a16d94b43720bb27f60a9fd.jpg
+Area Kelapa Sawit: 46.7%
+
+Gambar: 44000_4000_2610_2490_jpg.rf.1f8080839e982bc3c327345f9abcd255.jpg
+Area Kelapa Sawit: 41.5%
+
+Gambar: 44000_4000_3929_404_jpg.rf.9ecc1c8c7b6b4b3453f0159754611796.jpg
+Area Kelapa Sawit: 39.8%
+
+Gambar: 44000_4000_832_2907_jpg.rf.49399a519a5b6c9988a6e6267cacae15.jpg
+Area Kelapa Sawit: 40.1%
+
+Gambar: 44000_4000_2193_3141_jpg.rf.3285477ac1a0e533272a4b884af65d8d.jpg
+Area Kelapa Sawit: 36.8%
+
+Gambar: 44000_16000_732_3260_jpg.rf.b93acc8b36bf1e9648b6d87effe0aae4.jpg
+Area Kelapa Sawit: 45.9%
+
+Gambar: 52000_20000_1360_2693_jpg.rf.670ef46a91cdc05e3f706f4bbad7e5c4.jpg
+Area Kelapa Sawit: 14.5%
+
+Gambar: 44000_4000_3026_54_jpg.rf.d8813dadbbc7ae90323fd70a38b53fd0.jpg
+Area Kelapa Sawit: 41.2%
+
+Gambar: 44000_4000_3708_1648_jpg.rf.4fdb5a99a1fbda1fa57e0f2a0b6721fc.jpg
+Area Kelapa Sawit: 50.6%
+
+Gambar: 44000_16000_1497_2512_jpg.rf.1fe1a8497181d03bad3ede7456c5ea89.jpg
+Area Kelapa Sawit: 29.3%
+
+Gambar: 44000_4000_2700_2170_jpg.rf.af025ac4d81da013e5a09de48d7a1548.jpg
+Area Kelapa Sawit: 44.6%
+
+Gambar: 52000_20000_506_111_jpg.rf.0ed2af3c99041b85c1700460c2aa1b61.jpg
+Area Kelapa Sawit: 64.4%
+
+Gambar: 44000_16000_1909_1218_jpg.rf.96873e305c7da11a4a26e9cd83e906db.jpg
+Area Kelapa Sawit: 49.5%
+
+Gambar: 44000_16000_2090_655_jpg.rf.f73b414eb370cb62f619389d46c6fdc0.jpg
+Area Kelapa Sawit: 22.5%
+
+Gambar: 44000_4000_1183_1123_jpg.rf.c515934861c1faba495b77dc5689d123.jpg
+Area Kelapa Sawit: 51.2%
+
+Gambar: 44000_16000_755_173_jpg.rf.12bb752a524e515886fd97e695e984e4.jpg
+Area Kelapa Sawit: 52.7%
+
+Gambar: 44000_4000_911_2747_jpg.rf.2af6791a895572122da4074809916dda.jpg
+Area Kelapa Sawit: 44.7%
+
+Gambar: 52000_20000_2749_3361_jpg.rf.378d6d41329d40231f0f334c65e75d0c.jpg
+Area Kelapa Sawit: 32.3%
+
+Gambar: 44000_4000_2380_2431_jpg.rf.1a8696c9d2747ea5323fff36e13be57f.jpg
+Area Kelapa Sawit: 35.8%
+
+Gambar: 52000_20000_2574_2545_jpg.rf.86c326bb1f81ee29daeac2cc7c73dfe1.jpg
+Area Kelapa Sawit: 14.4%
+
+Gambar: 44000_4000_3510_81_jpg.rf.2cece8cfd5b2b63ee98dea09796ffeed.jpg
+Area Kelapa Sawit: 39.1%
+
+Gambar: 44000_4000_1356_2795_jpg.rf.2ca97882ad52057a31fb25da79d0e997.jpg
+Area Kelapa Sawit: 42.4%
+
+Gambar: 44000_16000_3283_2163_jpg.rf.500a2cfab0959c507bceb86176df0403.jpg
+Area Kelapa Sawit: 9.2%
+
+Gambar: 52000_20000_2143_816_jpg.rf.7eb591ef45d60c1c872d117dcf18a61a.jpg
+Area Kelapa Sawit: 36.7%
+
+Gambar: 44000_4000_608_1553_jpg.rf.7d76b6264bb633e9c9c3727ee27d5e94.jpg
+Area Kelapa Sawit: 46.0%
+
+Gambar: 44000_4000_2401_3543_jpg.rf.09961a10b31608b5f275dd083acfafea.jpg
+Area Kelapa Sawit: 52.3%
+
+Gambar: 44000_4000_2235_2112_jpg.rf.159408fedd01fe89646244513f685927.jpg
+Area Kelapa Sawit: 41.0%
+
+Gambar: 44000_16000_3402_3058_jpg.rf.b26ee7cc7a2c324fc8485bce0adfe000.jpg
+Area Kelapa Sawit: 7.0%
+
+Gambar: 52000_20000_2427_3816_jpg.rf.8afc0c3563b82ae81c7d30aa45f0bd71.jpg
+Area Kelapa Sawit: 54.2%
+
+Gambar: 44000_16000_2374_3141_jpg.rf.9a82736d0fa312970eceb4d3e8ded6b0.jpg
+Area Kelapa Sawit: 43.6%
+
+Gambar: 44000_4000_2849_650_jpg.rf.6fadc67e4905318c4bd0c276432802ca.jpg
+Area Kelapa Sawit: 31.6%
+
+Gambar: 44000_4000_88_3082_jpg.rf.f7771bfa38286d69d7c88c8b4ae9f28d.jpg
+Area Kelapa Sawit: 37.9%
+
+Gambar: 44000_16000_3427_2055_jpg.rf.90776875b8d74c74dcd0335f24e807a6.jpg
+Area Kelapa Sawit: 3.7%
+
+Gambar: 52000_20000_798_1150_jpg.rf.a96d57be4b65c000d8bebeb00a6058a1.jpg
+Area Kelapa Sawit: 43.2%
+
+Gambar: 44000_16000_3176_933_jpg.rf.c61d9ae20735d605672193dcc27f3460.jpg
+Area Kelapa Sawit: 8.6%
+
+Gambar: 44000_4000_783_2681_jpg.rf.1b32f5aa09749be94c12b32a97cac903.jpg
+Area Kelapa Sawit: 48.5%
+
+Gambar: 52000_20000_3489_2627_jpg.rf.a23bd8ec84627f82ff19f95a3710bed8.jpg
+Area Kelapa Sawit: 60.1%
+
+Gambar: 44000_16000_437_2102_jpg.rf.3fa69e5e2e81a25e386f2afa32d28ed9.jpg
+Area Kelapa Sawit: 60.0%
+
+Gambar: 44000_16000_1422_3263_jpg.rf.21642bb6b46b0d64748d447358ce1172.jpg
+Area Kelapa Sawit: 36.5%
+
+Gambar: 52000_20000_291_1764_jpg.rf.685e4e78eddb94a02d19fedf1ba9bcd9.jpg
+Area Kelapa Sawit: 12.5%
+
+Gambar: 52000_20000_2096_1118_jpg.rf.deb838faed2663c92e952c622bf3fcea.jpg
+Area Kelapa Sawit: 24.9%
+
+Gambar: 52000_20000_1327_2813_jpg.rf.79f8e1ac0cde146e941cfd78566130b3.jpg
+Area Kelapa Sawit: 12.6%
+
+Gambar: 44000_4000_1429_648_jpg.rf.4185b82221783f1269323c7f833ff207.jpg
+Area Kelapa Sawit: 44.7%
+
+Gambar: 44000_4000_1071_1761_jpg.rf.981f3cf6d387023d09a5875358475a90.jpg
+Area Kelapa Sawit: 49.0%
+
+Gambar: 44000_16000_2911_1097_jpg.rf.7365141ecfbfde0fef3c5b704946c861.jpg
+Area Kelapa Sawit: 18.4%
+
+Gambar: 44000_16000_423_219_jpg.rf.f9c86b63fda4436059e38c58bebc76f6.jpg
+Area Kelapa Sawit: 54.3%
+
+Gambar: 44000_16000_1353_1822_jpg.rf.6a7c0d0b2b9c7c9e598af6229076c0c3.jpg
+Area Kelapa Sawit: 45.4%
+
+Gambar: 52000_20000_3255_2698_jpg.rf.dd747d2819f2e8af193ea3dab15be509.jpg
+Area Kelapa Sawit: 42.6%
+
+Gambar: 44000_4000_750_2866_jpg.rf.41b1a40f50dbb0a9ba6bfa7c9dbc2674.jpg
+Area Kelapa Sawit: 44.7%
+
+Gambar: 44000_4000_2138_1386_jpg.rf.2c7517c279f5b9c244cb5a3aea43cac7.jpg
+Area Kelapa Sawit: 35.2%
+
+Gambar: 44000_16000_1607_2289_jpg.rf.3fcf1108712c76697cb4d52429755233.jpg
+Area Kelapa Sawit: 34.4%
+
+Gambar: 52000_20000_708_878_jpg.rf.53a8865fce2fcb9cb17598387dab9052.jpg
+Area Kelapa Sawit: 51.2%
+
+Gambar: 52000_20000_3234_1048_jpg.rf.0f5e37111a885532c6c905b19bd15bd3.jpg
+Area Kelapa Sawit: 57.7%
+
+Gambar: 44000_16000_384_3342_jpg.rf.7568f92e6adcff913c58fed01290b05e.jpg
+Area Kelapa Sawit: 40.2%
+
+Gambar: 44000_4000_1530_2780_jpg.rf.1b66527b8eb291d1e49e96f85e90e08f.jpg
+Area Kelapa Sawit: 38.7%
+
+Gambar: 44000_4000_3501_3523_jpg.rf.e2ba44a3658c2066b77180cc13d72d3d.jpg
+Area Kelapa Sawit: 48.8%
+
+Gambar: 44000_16000_313_3177_jpg.rf.9eb2999ef7ef5e18da81c2683af158fe.jpg
+Area Kelapa Sawit: 42.4%
+
+Gambar: 52000_20000_3536_1264_jpg.rf.abc2ab35aee108a4b75af3386d7e5e14.jpg
+Area Kelapa Sawit: 61.7%
+
+Gambar: 52000_20000_1257_2204_jpg.rf.ace15a5724e7848d41ba1ba757a4d76b.jpg
+Area Kelapa Sawit: 15.3%
+
+Gambar: 44000_4000_1146_1346_jpg.rf.dfad583932b3b72a0d8f4388c0af7c80.jpg
+Area Kelapa Sawit: 50.1%
+
+Gambar: 52000_20000_82_521_jpg.rf.11a89156cfe557c98987959a1f077e75.jpg
+Area Kelapa Sawit: 49.1%
+
+Gambar: 44000_16000_191_2091_jpg.rf.2741016c1eef3a4d48ba62c3516eeb28.jpg
+Area Kelapa Sawit: 53.9%
+
+Gambar: 52000_20000_1255_2019_jpg.rf.a24a8aefbdb41e56c44e18deec514ff3.jpg
+Area Kelapa Sawit: 15.8%
+
+Gambar: 52000_20000_1374_1913_jpg.rf.89dd356332ae3ebfcfe37857fa6c14bb.jpg
+Area Kelapa Sawit: 17.1%
+
+Gambar: 44000_16000_2767_2840_jpg.rf.759fe99310ccbe34adc536d5e58ed204.jpg
+Area Kelapa Sawit: 37.1%
+
+Gambar: 52000_20000_2485_3484_jpg.rf.2a228827fd859a866ea565c001e36a2f.jpg
+Area Kelapa Sawit: 37.8%
+
+Gambar: 52000_20000_1294_1410_jpg.rf.55253dde2be19870d29a80af653c66f7.jpg
+Area Kelapa Sawit: 29.2%
+
+Gambar: 44000_16000_297_2951_jpg.rf.8639aac6b6d6f8c2e92b24338e7edbcc.jpg
+Area Kelapa Sawit: 39.1%
+
+Gambar: 44000_16000_1048_1639_jpg.rf.cbbaed8d3f83bff6fed2ffc4843e08ff.jpg
+Area Kelapa Sawit: 57.2%
+
+Gambar: 44000_4000_3214_662_jpg.rf.ce8ba358468e1abd1c8f3629cf8453dc.jpg
+Area Kelapa Sawit: 41.8%
+
+Gambar: 52000_20000_2481_1573_jpg.rf.4be89a6d85d4053b037a4c70a1e41156.jpg
+Area Kelapa Sawit: 17.6%
+
+Gambar: 44000_16000_3965_3597_jpg.rf.f1e774e52362c61b550150651a51fe75.jpg
+Area Kelapa Sawit: 24.0%
+
+Gambar: 44000_16000_603_2350_jpg.rf.ecc673814f6bd84801db43258207c424.jpg
+Area Kelapa Sawit: 59.9%
+
+Gambar: 44000_16000_1592_2497_jpg.rf.7b973258ef1a4669924fec2daf1c309b.jpg
+Area Kelapa Sawit: 32.7%
+
+Gambar: 52000_20000_534_2463_jpg.rf.fb2f581233f67d8efa1435557dc6b7ab.jpg
+Area Kelapa Sawit: 12.7%
+
+Gambar: 52000_20000_2930_3143_jpg.rf.d5ca5b73e1b386792c46ad8f219c2af4.jpg
+Area Kelapa Sawit: 27.2%
+
+Gambar: 44000_4000_2304_815_jpg.rf.5143c7f3a2e61c6c00f0da08fb96ce25.jpg
+Area Kelapa Sawit: 43.7%
+
+Gambar: 52000_20000_3563_3337_jpg.rf.7eaeb23d39e2e436e1d9c2d4f614e90d.jpg
+Area Kelapa Sawit: 49.5%
+
+Gambar: 52000_20000_3420_1957_jpg.rf.19b8a71b7884a1783dbb72c10a161512.jpg
+Area Kelapa Sawit: 60.7%
+
+Gambar: 44000_4000_2650_9_jpg.rf.dacc544875956a07dad9db66a84ea56f.jpg
+Area Kelapa Sawit: 40.9%
+
+Gambar: 44000_16000_1240_2152_jpg.rf.0f5e9cec9d08b2d229f3acd2c80815b5.jpg
+Area Kelapa Sawit: 31.8%
+
+Gambar: 44000_16000_875_1187_jpg.rf.4f153d76156a3c9fc20901b20d136635.jpg
+Area Kelapa Sawit: 57.9%
+
+Gambar: 52000_20000_2479_639_jpg.rf.9d6064d48ee70445f81992b9b2e4b889.jpg
+Area Kelapa Sawit: 44.7%
+
+Gambar: 44000_4000_2586_1306_jpg.rf.2dbc861dcb27bb0d182524bf79b4ca93.jpg
+Area Kelapa Sawit: 37.9%
+
+Gambar: 44000_4000_3300_707_jpg.rf.e750a21166a58529b7462843eace493d.jpg
+Area Kelapa Sawit: 43.9%
+
+Gambar: 44000_16000_942_3060_jpg.rf.952fa7d9953a42704614ac50dbf1710f.jpg
+Area Kelapa Sawit: 43.8%
+
+Gambar: 44000_4000_1958_2897_jpg.rf.76d3a8ffb5d6bfe004f4818472179ef2.jpg
+Area Kelapa Sawit: 38.5%
+
+Gambar: 52000_20000_3249_3925_jpg.rf.a1f173801d395bf413f79a3027b538dc.jpg
+Area Kelapa Sawit: 57.0%
+
+Gambar: 44000_4000_3722_361_jpg.rf.13889e0d23667c3dcb9224cc07cff5f7.jpg
+Area Kelapa Sawit: 39.0%
+
+Gambar: 44000_16000_764_2638_jpg.rf.1c3dab18fc87e1ce66d5c856f94729c2.jpg
+Area Kelapa Sawit: 48.0%
+
+Gambar: 52000_20000_1346_1985_jpg.rf.54279e8a3ed4524e3a706935d85d682e.jpg
+Area Kelapa Sawit: 16.6%
+
+Gambar: 44000_4000_2909_1866_jpg.rf.137a0485db69929a5327fa1b4f27402b.jpg
+Area Kelapa Sawit: 50.1%
+
+Gambar: 52000_20000_3136_1175_jpg.rf.201838ba10564523bf5cd2ae6aaa129e.jpg
+Area Kelapa Sawit: 53.5%
+
+Gambar: 44000_16000_2679_1880_jpg.rf.f51c792de0434e9a151c4da2bdf51364.jpg
+Area Kelapa Sawit: 42.7%
+
+Gambar: 52000_20000_2922_1323_jpg.rf.1a73c2f73935e64c49d5740578e3ff8f.jpg
+Area Kelapa Sawit: 43.7%
+
+Gambar: 52000_20000_2086_2181_jpg.rf.e3248c432ac68b4ed6c5d35cc15d325f.jpg
+Area Kelapa Sawit: 13.8%
+
+Gambar: 52000_20000_3864_1569_jpg.rf.09e07c3982e7fa1fb281f610fc975c86.jpg
+Area Kelapa Sawit: 70.1%
+
+Gambar: 44000_16000_1201_586_jpg.rf.aba14c03b4a4ebc689d53b1e2d0c8a7c.jpg
+Area Kelapa Sawit: 59.9%
+
+Gambar: 52000_20000_2233_3246_jpg.rf.dc26be514851275597a3b52612262c37.jpg
+Area Kelapa Sawit: 29.0%
+
+Gambar: 52000_20000_820_971_jpg.rf.a34b286325c8eb35416c8f0c2d3f43d0.jpg
+Area Kelapa Sawit: 48.1%
+
+Gambar: 52000_20000_2857_801_jpg.rf.1b19fb8237c0720ebb025984d81b7ab6.jpg
+Area Kelapa Sawit: 45.4%
+
+Gambar: 44000_16000_757_363_jpg.rf.b0b69a00e63c4d7059ce0a71400a7824.jpg
+Area Kelapa Sawit: 53.3%
+
+Gambar: 44000_16000_1283_1474_jpg.rf.1d64c345e92cd869a0b9a547de37d351.jpg
+Area Kelapa Sawit: 62.2%
+
+Gambar: 44000_4000_1055_3767_jpg.rf.64a1cb87f406bce2805086d9bbf245bb.jpg
+Area Kelapa Sawit: 29.2%
+
+Gambar: 52000_20000_3137_3148_jpg.rf.215f7d7b1750f6e63d22611031775fd5.jpg
+Area Kelapa Sawit: 32.4%
+
+Gambar: 44000_4000_1326_2988_jpg.rf.66cdf038d145fcf525c3a6f1d1d476cb.jpg
+Area Kelapa Sawit: 36.1%
+
+Gambar: 44000_16000_2564_1817_jpg.rf.1761c39b1f1f2ee91fd4e161d4945de3.jpg
+Area Kelapa Sawit: 49.4%
+
+Gambar: 52000_20000_746_2580_jpg.rf.1ec7c08b71cc64e445bc684b17d2d2c2.jpg
+Area Kelapa Sawit: 12.4%
+
+Gambar: 44000_4000_2635_655_jpg.rf.91ac69178b376b91045b07ae47b7c218.jpg
+Area Kelapa Sawit: 39.1%
+
+Gambar: 52000_20000_1552_1254_jpg.rf.a05612f6be0bda350bc8c65d6e30764d.jpg
+Area Kelapa Sawit: 34.0%
+
+Gambar: 52000_20000_1400_3744_jpg.rf.a52d495b34c27f83130bc6c181288798.jpg
+Area Kelapa Sawit: 52.4%
+
+Gambar: 52000_20000_2774_1942_jpg.rf.eb46257e4fa301483c90ad8cba289ba9.jpg
+Area Kelapa Sawit: 21.7%
+
+Gambar: 44000_16000_554_1042_jpg.rf.406316d80c7619e3be551375ab67fec2.jpg
+Area Kelapa Sawit: 57.3%
+
+Gambar: 52000_20000_783_960_jpg.rf.e25edfc311c88c4be081f3f4182454a4.jpg
+Area Kelapa Sawit: 51.0%
+
+Gambar: 44000_16000_2222_3530_jpg.rf.2239db664a24ad390363845ef148d1e7.jpg
+Area Kelapa Sawit: 42.4%
+
+Gambar: 44000_16000_243_3488_jpg.rf.f6ca78deb452a818b53cee501c61b4fb.jpg
+Area Kelapa Sawit: 47.3%
+
+Gambar: 44000_4000_2123_2771_jpg.rf.e78938487854f1a6b9d75364d0b0f990.jpg
+Area Kelapa Sawit: 41.6%
+
+Gambar: 44000_4000_2401_69_jpg.rf.51e459779d42118a25f71ca3500ab66d.jpg
+Area Kelapa Sawit: 45.8%
+
+Gambar: 52000_20000_65_3108_jpg.rf.2866a8dede8c0f589f293d3c99c4dd10.jpg
+Area Kelapa Sawit: 25.8%
+
+Gambar: 52000_20000_3914_2961_jpg.rf.11aacb7dbb2dccf55f6eeb5f0e3b2520.jpg
+Area Kelapa Sawit: 54.2%
+
+Gambar: 44000_16000_917_3566_jpg.rf.ba82f6277ef14220a865210d7d10ded5.jpg
+Area Kelapa Sawit: 51.2%
+
+Gambar: 44000_4000_3590_3325_jpg.rf.b5617d418e398dba91029ae4289bdade.jpg
+Area Kelapa Sawit: 46.8%
+
+Gambar: 44000_16000_1150_1075_jpg.rf.1cd94532dfc2d38d49412077349b5ccb.jpg
+Area Kelapa Sawit: 56.3%
+
+Gambar: 52000_20000_2547_485_jpg.rf.1485ed9382c91400660ffb20119a0db9.jpg
+Area Kelapa Sawit: 56.6%
+
+Gambar: 52000_20000_14_1574_jpg.rf.deea31e8a235cd34f3e8f5af96178aa9.jpg
+Area Kelapa Sawit: 9.3%
+
+Gambar: 44000_4000_2672_2826_jpg.rf.2bf26d6f132c01ddef83dd7971cbb4bc.jpg
+Area Kelapa Sawit: 49.8%
+
+Gambar: 44000_4000_1103_2434_jpg.rf.55e5cb5ed65d56e2b7b9c4fff9d2d6ee.jpg
+Area Kelapa Sawit: 41.6%
+
+Gambar: 52000_20000_1908_2873_jpg.rf.1697dca7bc12ccf419d3959149570329.jpg
+Area Kelapa Sawit: 14.1%
+
+Gambar: 52000_20000_3011_1777_jpg.rf.aadeb1b11691a36007530d90e6cf3a7d.jpg
+Area Kelapa Sawit: 42.0%
+
+Gambar: 44000_16000_749_1583_jpg.rf.4edc1405c165a301fc097b76822c3ebe.jpg
+Area Kelapa Sawit: 57.2%
+
+Gambar: 44000_4000_2788_2208_jpg.rf.97c518fb0512cbc925c880e65546df8b.jpg
+Area Kelapa Sawit: 43.6%
+
+Gambar: 52000_20000_1793_2587_jpg.rf.ba1c744d322727347134e030429dc4d8.jpg
+Area Kelapa Sawit: 18.8%
+
+Gambar: 44000_16000_2901_2839_jpg.rf.36bc223bbf32a634b171787584491cf4.jpg
+Area Kelapa Sawit: 26.7%
+
+Gambar: 44000_16000_3260_1146_jpg.rf.b9827861edf9b3a627e375fcac978674.jpg
+Area Kelapa Sawit: 9.5%
+
+Gambar: 44000_4000_1611_1439_jpg.rf.2773ef96a9a3800e8323b66854bce7b2.jpg
+Area Kelapa Sawit: 41.1%
+
+Gambar: 44000_4000_1898_1606_jpg.rf.6c22c5b8814e4d04266206a1f8c5c833.jpg
+Area Kelapa Sawit: 32.0%
+
+Gambar: 44000_16000_202_2122_jpg.rf.f4fbf8914f8a5017eb80a2ba3bb0c7e3.jpg
+Area Kelapa Sawit: 53.2%
+
+Gambar: 44000_16000_1065_1216_jpg.rf.1355d8ed6cf3444351d6d668da77c0fd.jpg
+Area Kelapa Sawit: 57.8%
+
+Gambar: 44000_16000_633_2032_jpg.rf.1544db8da00dbd0250fa8cf335161fcb.jpg
+Area Kelapa Sawit: 62.2%
+
+Gambar: 52000_20000_499_948_jpg.rf.f8cedee0fef5297b7210f80ff135d4b2.jpg
+Area Kelapa Sawit: 41.0%
+
+Gambar: 44000_16000_1059_3696_jpg.rf.cf686af5a26b150598ec6bdc6070b0d4.jpg
+Area Kelapa Sawit: 50.6%
+
+Gambar: 44000_16000_1619_2024_jpg.rf.fdb9390099eb5addc3223c625c2136e7.jpg
+Area Kelapa Sawit: 44.1%
+
+Gambar: 44000_16000_1122_3495_jpg.rf.83113c5f752c5c787cb1bd7aacc847ef.jpg
+Area Kelapa Sawit: 46.5%
+
+Gambar: 44000_4000_327_2984_jpg.rf.47eaac58af4887ef6866f15a839db007.jpg
+Area Kelapa Sawit: 39.7%
+
+Gambar: 52000_20000_1198_3696_jpg.rf.1d9092b003597318d921abc5a123e737.jpg
+Area Kelapa Sawit: 41.7%
+
+Gambar: 44000_4000_26_1783_jpg.rf.da125e458de7c49be781729b6065581a.jpg
+Area Kelapa Sawit: 43.4%
+
+Gambar: 44000_16000_1902_1714_jpg.rf.fee3402cf76ee792e4ccd5867a2398d6.jpg
+Area Kelapa Sawit: 55.0%
+
+Gambar: 52000_20000_3776_3366_jpg.rf.5174b415a2b5c9be5980a3693fc668ee.jpg
+Area Kelapa Sawit: 52.4%
+
+Gambar: 44000_16000_264_2941_jpg.rf.d8ae911c9549776642c9ac19c883477c.jpg
+Area Kelapa Sawit: 38.9%
+
+Gambar: 44000_4000_3895_617_jpg.rf.0870933bbd4ffaa3af15296cf753dd1f.jpg
+Area Kelapa Sawit: 51.7%
+
+Gambar: 44000_16000_3587_2965_jpg.rf.426b21647950633bd91cfee9c6a05224.jpg
+Area Kelapa Sawit: 1.4%
+
+Gambar: 52000_20000_573_3175_jpg.rf.ff9c227abb63d583e9ed90b0bb96d064.jpg
+Area Kelapa Sawit: 14.2%
+
+Gambar: 44000_16000_100_1471_jpg.rf.b155ea6db69b5f5bf663d4f22ac49abc.jpg
+Area Kelapa Sawit: 56.7%
+
+Gambar: 44000_16000_2506_3224_jpg.rf.4101c593e0aed1c72806904f01872ee2.jpg
+Area Kelapa Sawit: 36.4%
+
+Gambar: 44000_16000_1286_3531_jpg.rf.502b5dfc4931367756a3462bfca5228f.jpg
+Area Kelapa Sawit: 48.5%
+
+Gambar: 44000_4000_1154_3548_jpg.rf.21c7f9d263471138031299738ac5abd6.jpg
+Area Kelapa Sawit: 29.2%
+
+
+Rata-rata area kelapa sawit: 41.0%
